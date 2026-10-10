@@ -1,0 +1,27 @@
+{
+    "students": [
+        {
+            "id": 1,
+            "name": "Sai"
+        },
+        {
+            "id": 2,
+            "name": "Rahul"
+        }
+    ],
+    "courses": [
+        {
+            "id": 1,
+            "name": "FastAPI"
+        },
+        {
+            "id": 2,
+            "name": "FastAPI"
+        },
+        {
+            "id": 3,
+            "name": "FastAPI"
+        }
+    ],
+    "enrollments": []
+}
